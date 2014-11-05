@@ -22,7 +22,7 @@ py
 홈페이지 읽어와서 저장하기
 
 ### 4. 데이터 가공
-웹스크레핑 코드 변경
+웹스크레핑 코드 변경 https://gist.github.com/cornchz/c340bd469d6a2f31827d
 결과 페이지
 json 으로 출력
 
