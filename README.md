@@ -43,6 +43,11 @@ py
 
 
 ## 링크
+
+발표1 http://nbviewer.ipython.org/github/babelPish/nlp/blob/master/add/python_base/python-basic.ipynb
+
+발표2 http://nbviewer.ipython.org/github/babelPish/nlp/blob/master/add/python_base/python-basic-do.ipynb
+
 pycharm educational edition
 https://www.jetbrains.com/pycharm-educational/
 
