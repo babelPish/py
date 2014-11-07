@@ -2,7 +2,7 @@ __author__ = 'jay'
 
 import logging
 import asyncio # 작업을 비동기로 처리하기 위한 패키지
-import aiohttp # ayncio 패키지를 사용하기 network io 작업을 비동기로 처리하기 위한 패키지
+import aiohttp # asyncio와함께 network io 작업을 비동기로 처리하기 위한 패키지
 import requests
 from urllib.parse import urlsplit, urljoin
 from bs4 import BeautifulSoup
