@@ -2,7 +2,7 @@
 - 최광훈
 
 ### 비고 ###
-* python 3.4(only)
+* python 3.4
 * 비동기처리를 위해 ayncio, aiohttp 사용
 * html 파싱을 위해 BeautifulSoup 사용
 
