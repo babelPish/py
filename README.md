@@ -4,7 +4,7 @@ py
 바이썬기초
 
 ### 1. 아래 출력
- python basic 코드가 작성가는 한가
+ python basic 코드 작성이 가능 한가
 ```python
 @
 @@@
